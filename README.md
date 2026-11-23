@@ -112,4 +112,4 @@ For demonstration and testing, enter any student name in the Student Sign-In tab
 ```powershell
 .\venv\Scripts\streamlit.exe run app.py
 ```
-Open `http://localhost:8501` in your browser.
+Open `http://localhost:8501` in your browser..
